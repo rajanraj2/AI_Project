@@ -6,6 +6,8 @@ Welcome to Closet Companion, your personal fashion advisor powered by AI and Mac
 ## Project Overview
 Closet Companion classifies clothing items provided by the user into three main categories: T-shirt, Trouser, and Shoes. Additionally, it can identify whether a given T-shirt or Trouser is of light shade or dark in color.
 
+![alt text](home.png)
+
 ## How to Use
 1. **Download the Required Files**: 
     - Access the dataset and saved models from the following link: [Closet Companion Dataset & Models](https://drive.google.com/drive/folders/1RMxT-2Z1sRG99Cbcj0G7bb17v1hs8Z85?usp=sharing)
@@ -52,7 +54,6 @@ Feel free to contribute to the project by providing feedback, suggesting improve
 
 Happy Styling! 🎉👕👖👟
 
-![alt text](home.png)
 ![alt text](tshirt.png)
 ![alt text](trouser.png)
 ![alt text](shoes.png)
