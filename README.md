@@ -51,3 +51,8 @@ Closet Companion is developed as part of a Semester 4 Project for AI & ML course
 Feel free to contribute to the project by providing feedback, suggesting improvements, or submitting pull requests.
 
 Happy Styling! 🎉👕👖👟
+
+![alt text](home.png)
+![alt text](tshirt.png)
+![alt text](trouser.png)
+![alt text](shoes.png)
