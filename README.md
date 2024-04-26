@@ -3,6 +3,9 @@
 ## Introduction
 Welcome to Closet Companion, your personal fashion advisor powered by AI and Machine Learning! This project aims to help you make stylish outfit choices by recommending outfits using Convolutional Neural Networks (CNN). 
 
+### Checkout the website built using MERN stack which uses this model and predicts the cloth type and shade of the cloth uploaded by the user
+Link : https://github.com/rajanraj2/FashionFusion.git
+
 ## Project Overview
 Closet Companion classifies clothing items provided by the user into three main categories: T-shirt, Trouser, and Shoes. Additionally, it can identify whether a given T-shirt or Trouser is of light shade or dark in color.
 
